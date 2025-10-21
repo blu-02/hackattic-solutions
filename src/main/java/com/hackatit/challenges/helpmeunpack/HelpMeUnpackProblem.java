@@ -1,7 +1,7 @@
 package com.hackatit.challenges.helpmeunpack;
 
 public class HelpMeUnpackProblem {
-    String bytes;
+    private String bytes;
 
     public String getBytes() {
         return bytes;
