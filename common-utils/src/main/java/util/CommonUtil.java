@@ -1,4 +1,4 @@
-package com.hackatit.challenges;
+package util;
 
 
 import com.fasterxml.jackson.core.JsonProcessingException;

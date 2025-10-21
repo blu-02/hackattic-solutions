@@ -1,7 +1,7 @@
 package com.hackatit.challenges.helpmeunpack;
 
 
-import com.hackatit.challenges.CommonUtil;
+import util.CommonUtil;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
