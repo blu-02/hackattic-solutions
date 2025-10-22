@@ -18,6 +18,7 @@
 	<modules>
 		<module>Help Me Unpack</module>
 		<module>common-utils</module>
+		<module>Jotting JWTs</module>
 	</modules>
 	<scm>
 		<connection/>
